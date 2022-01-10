@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/Tourism/tourist_path/BuildConfig.java
+ com.Tourism.tourist_path.BuildConfig
